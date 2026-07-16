@@ -1,5 +1,6 @@
 # FieldTrim :  Ablating Livestock Classification Model for Offline On-The-Field Use 
 
+Assaf Shabat, Itamar Aharony
 
 ## Repository 
 
