@@ -1,4 +1,4 @@
-# FieldTrim: Lightweight Edge-Based Livestock Classification
+# FieldTrim :  Ablating Livestock Classification Model for Offline On-The-Field Use 
 
 ## Overview
 FieldTrim is a PyTorch-based deep learning pipeline designed to train a universal livestock mega-classifier (Chickens, Cows, Horses, and Sheep) and compresses it for edge-device deployment. The project utilizes **Singular Value Decomposition (SVD)** to factorize heavy 3x3 convolutional layers and gradually simplifies the model while retraining it between compression steps to prevent the catastrophic spatial degradation typically associated with sudden low-rank weight truncation.
