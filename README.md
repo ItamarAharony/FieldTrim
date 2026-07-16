@@ -1,4 +1,4 @@
-# FieldTrim :  Ablating Livestock Classification Model for Offline On-The-Field Use 
+# FieldTrim: Lightweight Edge-Based Livestock Classification
 
 Assaf Shabat, Itamar Aharony
 
